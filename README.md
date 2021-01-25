@@ -1,5 +1,5 @@
 ### Hi :bowtie:
-![GitHub Logo](https://149366112.v2.pressablecdn.com/wp-content/uploads/2016/10/less.jpg)
+![GitHub Logo](https://raw.githubusercontent.com/p4yam/p4yam/main/top.jpeg)
 
 <!--
 **p4yam/p4yam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
