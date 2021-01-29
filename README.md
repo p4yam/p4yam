@@ -1,7 +1,5 @@
-### Hi :bowtie:
-![GitHub Logo](https://raw.githubusercontent.com/p4yam/p4yam/main/top.jpeg)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=p4yam)
+![GitHub Logo](https://raw.githubusercontent.com/p4yam/p4yam/main/top.jpeg)
 
 
 <!--
