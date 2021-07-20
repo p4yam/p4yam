@@ -1,4 +1,4 @@
-```flutter
+```dart
 //TODO: remember to updated these info
 void main(){
   final fullName = 'Amir Hosein Asefi Nejad';
