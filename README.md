@@ -1,5 +1,5 @@
 ```dart
-//TODO: remember to updated these info
+//TODO: remember to update the info
 void main(){
   final fullName = 'Amir Hosein Asefi Nejad';
   final birthDate = DateTime.parse('1987-04-21');
