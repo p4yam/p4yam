@@ -1,5 +1,6 @@
 ```dart
-//TODO: remember to update the info
+/// Although my [fullName] is Amir Hosein Asefi Nejad, but
+/// on the internet I go by Payam Asefi.
 void main(){
   final fullName = 'Amir Hosein Asefi Nejad';
   final birthDate = DateTime.parse('1987-04-21');
