@@ -4,7 +4,7 @@
 void main(){
   final fullName = 'Amir Hosein Asefi Nejad';
   final birthDate = DateTime.parse('1987-07-21');
-  final currentLocation = 'Iran';
+  final currentLocation = 'Berlin, Germany';
   final linkedInProfile = 'https://www.linkedin.com/in/payam-asefi/';
   final email = 'p4yaam@gmail.com';
 }
